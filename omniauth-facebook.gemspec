@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path('../lib', __FILE__)
-require 'omniauth/facebook/version'
+require 'omniauth/facebook_canvas/version'
 
 Gem::Specification.new do |s|
-  s.name     = 'omniauth-facebook'
+  s.name     = 'omniauth-facebook_canvas'
   s.version  = OmniAuth::Facebook::VERSION
   s.authors  = ['Mark Dodwell']
   s.email    = ['mark@mkdynamic.co.uk']
