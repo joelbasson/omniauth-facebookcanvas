@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors  = ['Joel Basson']
   s.email    = ['joelbasson@me.com']
   s.summary  = 'Facebook strategy for OmniAuth'
-  s.homepage = 'https://github.com/joelbasson/omniauth-facebook'
+  s.homepage = 'https://github.com/joelbasson/omniauth-facebookcanvas'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
