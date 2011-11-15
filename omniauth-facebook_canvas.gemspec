@@ -5,10 +5,10 @@ require 'omniauth/facebook_canvas/version'
 Gem::Specification.new do |s|
   s.name     = 'omniauth-facebook_canvas'
   s.version  = OmniAuth::Facebook::VERSION
-  s.authors  = ['Mark Dodwell']
-  s.email    = ['mark@mkdynamic.co.uk']
+  s.authors  = ['Joel Basson']
+  s.email    = ['joelbasson@me.com']
   s.summary  = 'Facebook strategy for OmniAuth'
-  s.homepage = 'https://github.com/mkdynamic/omniauth-facebook'
+  s.homepage = 'https://github.com/joelbasson/omniauth-facebook'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
