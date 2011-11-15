@@ -2,9 +2,9 @@ require 'omniauth/strategies/facebook'
 
 module OmniAuth
   module Strategies
-    class FacebookCanvas < OmniAuth::Strategies::Facebook
+    class Facebookcanvas < OmniAuth::Strategies::Facebook
        def name 
-         :facebook_canvas
+         :facebookcanvas
        end
     end
   end
