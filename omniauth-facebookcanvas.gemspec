@@ -4,7 +4,7 @@ require 'omniauth/facebookcanvas/version'
 
 Gem::Specification.new do |s|
   s.name     = 'omniauth-facebookcanvas'
-  s.version  = OmniAuth::Facebook::VERSION
+  s.version  = OmniAuth::Facebookcanvas::VERSION
   s.authors  = ['Joel Basson']
   s.email    = ['joelbasson@me.com']
   s.summary  = 'Facebook strategy for OmniAuth'
